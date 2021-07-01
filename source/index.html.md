@@ -51,7 +51,7 @@ search: true
 
 **Summary:** Get User's Transaction table
 
-**Description:** LPv2 Validation Tests
+**Description:** LPv2 Validation Tests 2
 
 ### HTTP Request 
 `***POST*** /api/payments/business/paginate` 
